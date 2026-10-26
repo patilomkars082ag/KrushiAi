@@ -1,0 +1,2 @@
+# KrushiAi
+Agriculture smart intelligence 
